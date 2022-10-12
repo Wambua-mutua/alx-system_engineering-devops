@@ -1,1 +1,1 @@
-shell navigations
+shell navigation basics
